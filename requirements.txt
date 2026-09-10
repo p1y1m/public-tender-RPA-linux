@@ -1,0 +1,4 @@
+playwright==1.62.0
+PyAutoGUI==0.9.54
+Pillow==12.3.0
+python3-Xlib==0.15
